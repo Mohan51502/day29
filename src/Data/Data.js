@@ -38,7 +38,7 @@ export const SidebarData = [
     heading: 'Analytics'
   },
   {
-    icon: UilChart,
+    icon: UilUsersAlt,
     heading: 'Add User'
   },
 ];
