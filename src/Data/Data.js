@@ -37,6 +37,10 @@ export const SidebarData = [
     icon: UilChart,
     heading: 'Analytics'
   },
+  {
+    icon: UilChart,
+    heading: 'Add User'
+  },
 ];
 
 // Analytics Cards Data

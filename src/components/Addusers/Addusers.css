@@ -1,0 +1,39 @@
+.app {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .management-section {
+    margin-bottom: 20px;
+  }
+  
+  .add-item {
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    margin-right: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
+  .item-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .item-list li {
+    margin-bottom: 5px;
+  }
+  
+  .item-list li button {
+    margin-left: 10px;
+  }
+  
